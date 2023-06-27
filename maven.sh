@@ -7,5 +7,5 @@ sudo tar xzvf apache-maven-3.9.3-bin.tar.gz
 
 sudo mv apache-maven-3.9.3  /opt/maven/
 
-export PATH="/opt/maven/apache-maven-3.9.0/bin:$PATH"
+export PATH="/opt/maven/apache-maven-3.9.3/bin:$PATH"
 
